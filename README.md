@@ -7,7 +7,7 @@ SkillMatchSet is a data-driven dashboard designed to help students and job seeke
 This system analyzes:
 - Technical skills provided by the student
 - Preferred job location
-- iMssing skills relevant to job roles
+- Mssing skills relevant to job roles
 
 Based on this analysis, the system:
 - Recommends top-matching job roles based on skill alignment
